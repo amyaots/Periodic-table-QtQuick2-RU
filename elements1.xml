@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<atom>
+		<name>Водород</name>                            	//Имя атома
+		<symbol>H</symbol>									//Символ элемента
+		<atomicMass>1.008</atomicMass>						//Атомная масса			
+		<atomicNum>1</atomicNum>							//Порядковый номер
+		<radius>0.05</radius>								//Радиус
+		<elecronegativity>2.10</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Гелий</name>
+		<symbol>He</symbol>
+		<atomicMass>4.003</atomicMass>
+		<atomicNum>2</atomicNum>
+		<radius>0.029</radius>
+		<elecronegativity></elecronegativity>
+		<numGroup>VIII</numGroup>
+		<group>A</group>
+		<category>s</category>
+		<metal>0</metal>
+	</atom>	
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Литий</name>
+		<symbol>Li</symbol>
+		<atomicMass>6.941</atomicMass>
+		<atomicNum>3</atomicNum>
+		<radius>0.159</radius>
+		<elecronegativity>0.97</elecronegativity>
+		<numGroup>I</numGroup>
+		<group>A</group>
+		<category>s</category>
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Берилий</name>
+		<symbol>Be</symbol>
+		<atomicMass>9.012</atomicMass>
+		<atomicNum>4</atomicNum>
+		<radius>0.104</radius>
+		<elecronegativity>1.47</elecronegativity>
+		<numGroup>II</numGroup>
+		<group>A</group>
+		<category>s</category>
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Бор</name>
+		<symbol>B</symbol>
+		<atomicMass>10.811</atomicMass>
+		<atomicNum>5</atomicNum>
+		<radius>0.078</radius>
+		<elecronegativity>2.01</elecronegativity>
+		<numGroup>III</numGroup>
+		<group>A</group>
+		<category>p</category>
+		<metal>0</metal>
+	</atom>
+</elements>

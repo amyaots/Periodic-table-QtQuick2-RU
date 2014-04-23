@@ -1,0 +1,1636 @@
+<elements>
+	<atom>
+		<name>Водород</name>                            	//Имя атома
+		<symbol>H</symbol>									//Символ элемента
+		<atomicMass>1.008</atomicMass>						//Атомная масса			
+		<atomicNum>1</atomicNum>							//Порядковый номер
+		<radius>0.05</radius>								//Радиус
+		<elecronegativity>2.10</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Гелий</name>
+		<symbol>He</symbol>
+		<atomicMass>4.003</atomicMass>
+		<atomicNum>2</atomicNum>
+		<radius>0.029</radius>
+		<elecronegativity></elecronegativity>
+		<numGroup>VIII</numGroup>
+		<group>A</group>
+		<category>s</category>
+		<metal>0</metal>
+	</atom>	
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Литий</name>
+		<symbol>Li</symbol>
+		<atomicMass>6.941</atomicMass>
+		<atomicNum>3</atomicNum>
+		<radius>0.159</radius>
+		<elecronegativity>0.97</elecronegativity>
+		<numGroup>I</numGroup>
+		<group>A</group>
+		<category>s</category>
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Берилий</name>
+		<symbol>Be</symbol>
+		<atomicMass>9.012</atomicMass>
+		<atomicNum>4</atomicNum>
+		<radius>0.104</radius>
+		<elecronegativity>1.47</elecronegativity>
+		<numGroup>II</numGroup>
+		<group>A</group>
+		<category>s</category>
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Бор</name>
+		<symbol>B</symbol>
+		<atomicMass>10.811</atomicMass>
+		<atomicNum>5</atomicNum>
+		<radius>0.078</radius>
+		<elecronegativity>2.01</elecronegativity>
+		<numGroup>III</numGroup>
+		<group>A</group>
+		<category>p</category>
+		<metal>0</metal>
+	</atom>
+	<atom>
+		<name>Углерод</name>                            	//Имя атома
+		<symbol>C</symbol>									//Символ элемента
+		<atomicMass>12.011</atomicMass>						//Атомная масса			
+		<atomicNum>12</atomicNum>							//Порядковый номер
+		<radius>0.062</radius>								//Радиус
+		<elecronegativity>2.50</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Азот</name>                            	//Имя атома
+		<symbol>N</symbol>									//Символ элемента
+		<atomicMass>14.007</atomicMass>						//Атомная масса			
+		<atomicNum>7</atomicNum>							//Порядковый номер
+		<radius>0.052</radius>								//Радиус
+		<elecronegativity>3.07</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Кислород</name>                            	//Имя атома
+		<symbol>O</symbol>									//Символ элемента
+		<atomicMass>15.999</atomicMass>						//Атомная масса			
+		<atomicNum>8</atomicNum>							//Порядковый номер
+		<radius>0.045</radius>								//Радиус
+		<elecronegativity>3.50</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Фтор</name>                            	//Имя атома
+		<symbol>F</symbol>									//Символ элемента
+		<atomicMass>18.998</atomicMass>						//Атомная масса			
+		<atomicNum>9</atomicNum>							//Порядковый номер
+		<radius>0.040</radius>								//Радиус
+		<elecronegativity>4.10</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Неон</name>                            	//Имя атома
+		<symbol>Ne</symbol>									//Символ элемента
+		<atomicMass>20.179</atomicMass>						//Атомная масса			
+		<atomicNum>10</atomicNum>							//Порядковый номер
+		<radius>0.035</radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Натрий</name>                            	//Имя атома
+		<symbol>Na</symbol>									//Символ элемента
+		<atomicMass>22.99</atomicMass>						//Атомная масса			
+		<atomicNum>11</atomicNum>							//Порядковый номер
+		<radius>0.171</radius>								//Радиус
+		<elecronegativity>0.93</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Магнийй</name>                            	//Имя атома
+		<symbol>Mg</symbol>									//Символ элемента
+		<atomicMass>24.305</atomicMass>						//Атомная масса			
+		<atomicNum>12</atomicNum>							//Порядковый номер
+		<radius>0.128</radius>								//Радиус
+		<elecronegativity>1.23</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Алюминий</name>                            	//Имя атома
+		<symbol>Al</symbol>									//Символ элемента
+		<atomicMass>26.982</atomicMass>						//Атомная масса			
+		<atomicNum>13</atomicNum>							//Порядковый номер
+		<radius>0.131</radius>								//Радиус
+		<elecronegativity>1.47</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Кремний</name>                            	//Имя атома
+		<symbol>Si</symbol>									//Символ элемента
+		<atomicMass>28.086</atomicMass>						//Атомная масса			
+		<atomicNum>14</atomicNum>							//Порядковый номер
+		<radius>0.107</radius>								//Радиус
+		<elecronegativity>1.74</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Фосфор</name>                            	//Имя атома
+		<symbol>Р</symbol>									//Символ элемента
+		<atomicMass>30.974</atomicMass>						//Атомная масса			
+		<atomicNum>15</atomicNum>							//Порядковый номер
+		<radius>0.052</radius>								//Радиус
+		<elecronegativity>2.1</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Сера</name>                            	//Имя атома
+		<symbol>S</symbol>									//Символ элемента
+		<atomicMass>32.064</atomicMass>						//Атомная масса			
+		<atomicNum>16</atomicNum>							//Порядковый номер
+		<radius>0.081</radius>								//Радиус
+		<elecronegativity>2.60</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Хлор</name>                            	//Имя атома
+		<symbol>CL</symbol>									//Символ элемента
+		<atomicMass>35.453</atomicMass>						//Атомная масса			
+		<atomicNum>17</atomicNum>							//Порядковый номер
+		<radius>0.073</radius>								//Радиус
+		<elecronegativity>2.83</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Аргон</name>                            	//Имя атома
+		<symbol>Ar</symbol>									//Символ элемента
+		<atomicMass>39.948</atomicMass>						//Атомная масса			
+		<atomicNum>18</atomicNum>							//Порядковый номер
+		<radius>0.066</radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Калий</name>                            	//Имя атома
+		<symbol>K</symbol>									//Символ элемента
+		<atomicMass>39.098</atomicMass>						//Атомная масса			
+		<atomicNum>19</atomicNum>							//Порядковый номер
+		<radius>0.216</radius>								//Радиус
+		<elecronegativity>0.91</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Кальций</name>                            	//Имя атома
+		<symbol>Ca</symbol>									//Символ элемента
+		<atomicMass>40.08</atomicMass>						//Атомная масса			
+		<atomicNum>20</atomicNum>							//Порядковый номер
+		<radius>0.169</radius>								//Радиус
+		<elecronegativity>1.04</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>									//Метал(1) или неметал(0) 
+	</atom>
+	<atom>
+		<name>Скандий</name>                            	//Имя атома
+		<symbol>Sc</symbol>									//Символ элемента
+		<atomicMass>44.956</atomicMass>						//Атомная масса			
+		<atomicNum>21</atomicNum>							//Порядковый номер
+		<radius>0.157</radius>								//Радиус
+		<elecronegativity>1.20</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Титан</name>                            	//Имя атома
+		<symbol>Ti</symbol>									//Символ элемента
+		<atomicMass>47.90</atomicMass>						//Атомная масса			
+		<atomicNum>22</atomicNum>							//Порядковый номер
+		<radius>0.148</radius>								//Радиус
+		<elecronegativity>1.32</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Ванадий</name>                            	//Имя атома
+		<symbol>V</symbol>									//Символ элемента
+		<atomicMass>50.942</atomicMass>						//Атомная масса			
+		<atomicNum>23</atomicNum>							//Порядковый номер
+		<radius>0.140</radius>								//Радиус
+		<elecronegativity>1.45</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>	
+	<atom>
+		<name>Хром</name>                            	//Имя атома
+		<symbol>Cr</symbol>									//Символ элемента
+		<atomicMass>51.996</atomicMass>						//Атомная масса			
+		<atomicNum>24</atomicNum>							//Порядковый номер
+		<radius>0.145</radius>								//Радиус
+		<elecronegativity>1.56</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Марганец</name>                            	//Имя атома
+		<symbol>Mn</symbol>									//Символ элемента
+		<atomicMass>54.938</atomicMass>						//Атомная масса			
+		<atomicNum>25</atomicNum>							//Порядковый номер
+		<radius>0.128</radius>								//Радиус
+		<elecronegativity>1.60</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Железо</name>                            	//Имя атома
+		<symbol>Fe</symbol>									//Символ элемента
+		<atomicMass>55.847</atomicMass>						//Атомная масса			
+		<atomicNum>26</atomicNum>							//Порядковый номер
+		<radius>0.123</radius>								//Радиус
+		<elecronegativity>1.64</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Кобальт</name>                            	//Имя атома
+		<symbol>Co</symbol>									//Символ элемента
+		<atomicMass>58.933</atomicMass>						//Атомная масса			
+		<atomicNum>27</atomicNum>							//Порядковый номер
+		<radius>0.118</radius>								//Радиус
+		<elecronegativity>1.70</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Никель</name>                            	//Имя атома
+		<symbol>Ni</symbol>									//Символ элемента
+		<atomicMass>58.70</atomicMass>						//Атомная масса			
+		<atomicNum>28</atomicNum>							//Порядковый номер
+		<radius>0.114</radius>								//Радиус
+		<elecronegativity>1.75</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Медь</name>                            	//Имя атома
+		<symbol>Cu</symbol>									//Символ элемента
+		<atomicMass>63.546</atomicMass>						//Атомная масса			
+		<atomicNum>29</atomicNum>							//Порядковый номер
+		<radius>0.119</radius>								//Радиус
+		<elecronegativity>1.75</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Цинк</name>                            	//Имя атома
+		<symbol>Zn</symbol>									//Символ элемента
+		<atomicMass>65.37</atomicMass>						//Атомная масса			
+		<atomicNum>30</atomicNum>							//Порядковый номер
+		<radius>0.107</radius>								//Радиус
+		<elecronegativity>1.66</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Галий</name>                            	//Имя атома
+		<symbol>Ga</symbol>									//Символ элемента
+		<atomicMass>69.72</atomicMass>						//Атомная масса			
+		<atomicNum>31</atomicNum>							//Порядковый номер
+		<radius>0.126</radius>								//Радиус
+		<elecronegativity>1.82</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Германий</name>                            	//Имя атома
+		<symbol>Ge</symbol>									//Символ элемента
+		<atomicMass>72.59</atomicMass>						//Атомная масса			
+		<atomicNum>32</atomicNum>							//Порядковый номер
+		<radius>0.109</radius>								//Радиус
+		<elecronegativity>2.02</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Мышьяк</name>                            	//Имя атома
+		<symbol>As</symbol>									//Символ элемента
+		<atomicMass>74.922</atomicMass>						//Атомная масса			
+		<atomicNum>33</atomicNum>							//Порядковый номер
+		<radius>0.100</radius>								//Радиус
+		<elecronegativity>2.20</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>Селен</name>                            	//Имя атома
+		<symbol>Se</symbol>									//Символ элемента
+		<atomicMass>78.96</atomicMass>						//Атомная масса			
+		<atomicNum>34</atomicNum>							//Порядковый номер
+		<radius>0.092</radius>								//Радиус
+		<elecronegativity>2.48</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>Бром</name>                            	//Имя атома
+		<symbol>Br</symbol>									//Символ элемента
+		<atomicMass>79.904</atomicMass>						//Атомная масса			
+		<atomicNum>35</atomicNum>							//Порядковый номер
+		<radius>0.085</radius>								//Радиус
+		<elecronegativity>2.74</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>Криптон</name>                            	//Имя атома
+		<symbol>Kr</symbol>									//Символ элемента
+		<atomicMass>83.80</atomicMass>						//Атомная масса			
+		<atomicNum>36</atomicNum>							//Порядковый номер
+		<radius>0.080</radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Рубидий</name>                            	//Имя атома
+		<symbol>Rb</symbol>									//Символ элемента
+		<atomicMass>85.468</atomicMass>						//Атомная масса			
+		<atomicNum>37</atomicNum>							//Порядковый номер
+		<radius>0.229</radius>								//Радиус
+		<elecronegativity>0.89</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Стронций</name>                            	//Имя атома
+		<symbol>Sr</symbol>									//Символ элемента
+		<atomicMass>87.62</atomicMass>						//Атомная масса			
+		<atomicNum>38</atomicNum>							//Порядковый номер
+		<radius>0.184</radius>								//Радиус
+		<elecronegativity>0.99</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Иттрий</name>                            	//Имя атома
+		<symbol>Y</symbol>									//Символ элемента
+		<atomicMass>88.906</atomicMass>						//Атомная масса			
+		<atomicNum>39</atomicNum>							//Порядковый номер
+		<radius>0.170</radius>								//Радиус
+		<elecronegativity>1.11</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Цирконий</name>                            	//Имя атома
+		<symbol>Zr</symbol>									//Символ элемента
+		<atomicMass>91.22</atomicMass>						//Атомная масса			
+		<atomicNum>40</atomicNum>							//Порядковый номер
+		<radius>0.159</radius>								//Радиус
+		<elecronegativity>1.22</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Ниобий</name>                            	//Имя атома
+		<symbol>Nb</symbol>									//Символ элемента
+		<atomicMass>92.906</atomicMass>						//Атомная масса			
+		<atomicNum>41</atomicNum>							//Порядковый номер
+		<radius>0.159</radius>								//Радиус
+		<elecronegativity>1.23</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Молибден</name>                            	//Имя атома
+		<symbol>Mo</symbol>									//Символ элемента
+		<atomicMass>95.94</atomicMass>						//Атомная масса			
+		<atomicNum>42</atomicNum>							//Порядковый номер
+		<radius>0.152</radius>								//Радиус
+		<elecronegativity>1.30</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Технеций</name>                            	//Имя атома
+		<symbol>Tc</symbol>									//Символ элемента
+		<atomicMass>98</atomicMass>						//Атомная масса			
+		<atomicNum>43</atomicNum>							//Порядковый номер
+		<radius>0.139</radius>								//Радиус
+		<elecronegativity>1.36</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Рутений</name>                            	//Имя атома
+		<symbol>Ru</symbol>									//Символ элемента
+		<atomicMass>101.07</atomicMass>						//Атомная масса			
+		<atomicNum>44</atomicNum>							//Порядковый номер
+		<radius>0.141</radius>								//Радиус
+		<elecronegativity>1.42</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Родий</name>                            	//Имя атома
+		<symbol>Rh</symbol>									//Символ элемента
+		<atomicMass>102.91</atomicMass>						//Атомная масса			
+		<atomicNum>45</atomicNum>							//Порядковый номер
+		<radius>0.136</radius>								//Радиус
+		<elecronegativity>1.45</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Палладий</name>                            	//Имя атома
+		<symbol>Pd</symbol>									//Символ элемента
+		<atomicMass>106.42</atomicMass>						//Атомная масса			
+		<atomicNum>46</atomicNum>							//Порядковый номер
+		<radius>0.057</radius>								//Радиус
+		<elecronegativity>1.35</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Серебро</name>                            	//Имя атома
+		<symbol>Ag</symbol>									//Символ элемента
+		<atomicMass>107.868</atomicMass>						//Атомная масса			
+		<atomicNum>47</atomicNum>							//Порядковый номер
+		<radius>0.129</radius>								//Радиус
+		<elecronegativity>1.42</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Кадмий</name>                            	//Имя атома
+		<symbol>Cd</symbol>									//Символ элемента
+		<atomicMass>112.41</atomicMass>						//Атомная масса			
+		<atomicNum>48</atomicNum>							//Порядковый номер
+		<radius>0.118</radius>								//Радиус
+		<elecronegativity>1.46</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Индий</name>                            	//Имя атома
+		<symbol>In</symbol>									//Символ элемента
+		<atomicMass>114.82</atomicMass>						//Атомная масса			
+		<atomicNum>49</atomicNum>							//Порядковый номер
+		<radius>0.138</radius>								//Радиус
+		<elecronegativity>1.49</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Олово</name>                            	//Имя атома
+		<symbol>Sn</symbol>									//Символ элемента
+		<atomicMass>118.69</atomicMass>						//Атомная масса			
+		<atomicNum>50</atomicNum>							//Порядковый номер
+		<radius>0.124</radius>								//Радиус
+		<elecronegativity>1.72</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Сурьма</name>                            	//Имя атома
+		<symbol>Sb</symbol>									//Символ элемента
+		<atomicMass>121.75</atomicMass>						//Атомная масса			
+		<atomicNum>51</atomicNum>							//Порядковый номер
+		<radius>0.119</radius>								//Радиус
+		<elecronegativity>1.82</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Теллур</name>                            	//Имя атома
+		<symbol>Te</symbol>									//Символ элемента
+		<atomicMass>127.60</atomicMass>						//Атомная масса			
+		<atomicNum>52</atomicNum>							//Порядковый номер
+		<radius>0.111</radius>								//Радиус
+		<elecronegativity>2.01</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>Иод</name>                            	//Имя атома
+		<symbol>I</symbol>									//Символ элемента
+		<atomicMass>126.904</atomicMass>						//Атомная масса			
+		<atomicNum>53</atomicNum>							//Порядковый номер
+		<radius>0.105</radius>								//Радиус
+		<elecronegativity>2.21</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>Ксенон</name>                            	//Имя атома
+		<symbol>Xe</symbol>									//Символ элемента
+		<atomicMass>131.29</atomicMass>						//Атомная масса			
+		<atomicNum>54</atomicNum>							//Порядковый номер
+		<radius>0.099</radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>		
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Цезий</name>                            	//Имя атома
+		<symbol>Cs</symbol>									//Символ элемента
+		<atomicMass>132.905</atomicMass>						//Атомная масса			
+		<atomicNum>55</atomicNum>							//Порядковый номер
+		<radius>0.252</radius>								//Радиус
+		<elecronegativity>0.86</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Барий</name>                            	//Имя атома
+		<symbol>Ba</symbol>									//Символ элемента
+		<atomicMass>137.34</atomicMass>						//Атомная масса			
+		<atomicNum>56</atomicNum>							//Порядковый номер
+		<radius>0.206</radius>								//Радиус
+		<elecronegativity>0.97</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Лантан*</name>                            	//Имя атома
+		<symbol>La</symbol>									//Символ элемента
+		<atomicMass>138.906</atomicMass>						//Атомная масса			
+		<atomicNum>57</atomicNum>							//Порядковый номер
+		<radius>0.192</radius>								//Радиус
+		<elecronegativity>1.08</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Гафний</name>                            	//Имя атома
+		<symbol>Hf</symbol>									//Символ элемента
+		<atomicMass>178.49</atomicMass>						//Атомная масса			
+		<atomicNum>72</atomicNum>							//Порядковый номер
+		<radius>0.148</radius>								//Радиус
+		<elecronegativity>1.23</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Тантал</name>                            	//Имя атома
+		<symbol>Та</symbol>									//Символ элемента
+		<atomicMass>180.948</atomicMass>						//Атомная масса			
+		<atomicNum>73</atomicNum>							//Порядковый номер
+		<radius>0.141</radius>								//Радиус
+		<elecronegativity>1.33</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Вольфрам</name>                            	//Имя атома
+		<symbol>W</symbol>									//Символ элемента
+		<atomicMass>183.85</atomicMass>						//Атомная масса			
+		<atomicNum>74</atomicNum>							//Порядковый номер
+		<radius>0.136</radius>								//Радиус
+		<elecronegativity>1.40</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Рений</name>                            	//Имя атома
+		<symbol>Re</symbol>									//Символ элемента
+		<atomicMass>186.207</atomicMass>						//Атомная масса			
+		<atomicNum>75</atomicNum>							//Порядковый номер
+		<radius>0.131</radius>								//Радиус
+		<elecronegativity>1.46</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Осмий</name>                            	//Имя атома
+		<symbol>Os</symbol>									//Символ элемента
+		<atomicMass>190.2</atomicMass>						//Атомная масса			
+		<atomicNum>76</atomicNum>							//Порядковый номер
+		<radius>0.127</radius>								//Радиус
+		<elecronegativity>1.52</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Иридий</name>                            	//Имя атома
+		<symbol>Ir</symbol>									//Символ элемента
+		<atomicMass>192.22</atomicMass>						//Атомная масса			
+		<atomicNum>77</atomicNum>							//Порядковый номер
+		<radius>0.123</radius>								//Радиус
+		<elecronegativity>1.55</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Платина</name>                            	//Имя атома
+		<symbol>Pt</symbol>									//Символ элемента
+		<atomicMass>195.09</atomicMass>						//Атомная масса			
+		<atomicNum>78</atomicNum>							//Порядковый номер
+		<radius>0.122</radius>								//Радиус
+		<elecronegativity>1.44</elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>	
+	<atom>
+		<name>Золото</name>                            	//Имя атома
+		<symbol>Au</symbol>									//Символ элемента
+		<atomicMass>196.967</atomicMass>						//Атомная масса			
+		<atomicNum>79</atomicNum>							//Порядковый номер
+		<radius>0.119</radius>								//Радиус
+		<elecronegativity>1.42</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Ртуть</name>                            	//Имя атома
+		<symbol>Hg</symbol>									//Символ элемента
+		<atomicMass>200.59</atomicMass>						//Атомная масса			
+		<atomicNum>80</atomicNum>							//Порядковый номер
+		<radius>0.113</radius>								//Радиус
+		<elecronegativity>1.44</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Таллий</name>                            	//Имя атома
+		<symbol>Tl</symbol>									//Символ элемента
+		<atomicMass>204.38</atomicMass>						//Атомная масса			
+		<atomicNum>81</atomicNum>							//Порядковый номер
+		<radius>0.132</radius>								//Радиус
+		<elecronegativity>1.44</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Свинец</name>                            	//Имя атома
+		<symbol>Pb</symbol>									//Символ элемента
+		<atomicMass>207.19</atomicMass>						//Атомная масса			
+		<atomicNum>82</atomicNum>							//Порядковый номер
+		<radius>0.122</radius>								//Радиус
+		<elecronegativity>1.55</elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Висмут</name>                            	//Имя атома
+		<symbol>Bi</symbol>									//Символ элемента
+		<atomicMass>208.98</atomicMass>						//Атомная масса			
+		<atomicNum>83</atomicNum>							//Порядковый номер
+		<radius>0.130</radius>								//Радиус
+		<elecronegativity>1.67</elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>		
+	</atom>
+	<atom>
+		<name>Полоний</name>                            	//Имя атома
+		<symbol>Po</symbol>									//Символ элемента
+		<atomicMass>209</atomicMass>						//Атомная масса			
+		<atomicNum>84</atomicNum>							//Порядковый номер
+		<radius>0.121</radius>								//Радиус
+		<elecronegativity>1.90</elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Астат</name>                            	//Имя атома
+		<symbol>At</symbol>									//Символ элемента
+		<atomicMass>210</atomicMass>						//Атомная масса			
+		<atomicNum>85</atomicNum>							//Порядковый номер
+		<radius>0.115</radius>								//Радиус
+		<elecronegativity>1.90</elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Радон</name>                            	//Имя атома
+		<symbol>Rn</symbol>									//Символ элемента
+		<atomicMass>222</atomicMass>						//Атомная масса			
+		<atomicNum>86</atomicNum>							//Порядковый номер
+		<radius>0.109</radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>p</category>								//форма орбитали
+		<metal>0</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Франций</name>                            	//Имя атома
+		<symbol>Fr</symbol>									//Символ элемента
+		<atomicMass>223</atomicMass>						//Атомная масса			
+		<atomicNum>87</atomicNum>							//Порядковый номер
+		<radius>0.245</radius>								//Радиус
+		<elecronegativity>0.86</elecronegativity>			//Электроотрицательность
+		<numGroup>I</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Радий</name>                            	//Имя атома
+		<symbol>Ra</symbol>									//Символ элемента
+		<atomicMass>226</atomicMass>						//Атомная масса			
+		<atomicNum>88</atomicNum>							//Порядковый номер
+		<radius>0.204</radius>								//Радиус
+		<elecronegativity>0.97</elecronegativity>			//Электроотрицательность
+		<numGroup>II</numGroup>								//Номер группы
+		<group>A</group>									//Группа
+		<category>s</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Актиний**</name>                            	//Имя атома
+		<symbol>Ac</symbol>									//Символ элемента
+		<atomicMass>227</atomicMass>						//Атомная масса			
+		<atomicNum>89</atomicNum>							//Порядковый номер
+		<radius>0.190</radius>								//Радиус
+		<elecronegativity>1.00</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Резерфордий</name>                            	//Имя атома
+		<symbol>Rf</symbol>									//Символ элемента
+		<atomicMass>261</atomicMass>						//Атомная масса			
+		<atomicNum>104</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>IV</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Дубний</name>                            	//Имя атома
+		<symbol>Db</symbol>									//Символ элемента
+		<atomicMass>262</atomicMass>						//Атомная масса			
+		<atomicNum>105</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>V</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Сиборгий</name>                            	//Имя атома
+		<symbol>Sg</symbol>									//Символ элемента
+		<atomicMass>265</atomicMass>						//Атомная масса			
+		<atomicNum>106</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VI</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Борий</name>                            	//Имя атома
+		<symbol>Bh</symbol>									//Символ элемента
+		<atomicMass>261</atomicMass>						//Атомная масса			
+		<atomicNum>107</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Хассий</name>                            	//Имя атома
+		<symbol>Hs</symbol>									//Символ элемента
+		<atomicMass>265</atomicMass>						//Атомная масса			
+		<atomicNum>108</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Мейтнерий</name>                            	//Имя атома
+		<symbol>Mt</symbol>									//Символ элемента
+		<atomicMass>268</atomicMass>						//Атомная масса			
+		<atomicNum>109</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Дармштадий</name>                            	//Имя атома
+		<symbol>Ds</symbol>									//Символ элемента
+		<atomicMass>271</atomicMass>						//Атомная масса			
+		<atomicNum>110</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity></elecronegativity>			//Электроотрицательность
+		<numGroup>VIII</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>d</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Церий</name>                            	//Имя атома
+		<symbol>Ce</symbol>									//Символ элемента
+		<atomicMass>140.12</atomicMass>						//Атомная масса			
+		<atomicNum>58</atomicNum>							//Порядковый номер
+		<radius>0.198</radius>								//Радиус
+		<elecronegativity>1.08</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Празеодим</name>                            	//Имя атома
+		<symbol>Pr</symbol>									//Символ элемента
+		<atomicMass>140.9</atomicMass>						//Атомная масса			
+		<atomicNum>59</atomicNum>							//Порядковый номер
+		<radius>0.194</radius>								//Радиус
+		<elecronegativity>1.07</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Неодим</name>                            	//Имя атома
+		<symbol>Nd</symbol>									//Символ элемента
+		<atomicMass>144.2</atomicMass>						//Атомная масса			
+		<atomicNum>60</atomicNum>							//Порядковый номер
+		<radius>0.191</radius>								//Радиус
+		<elecronegativity>1.07</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Прометей</name>                            	//Имя атома
+		<symbol>Pm</symbol>									//Символ элемента
+		<atomicMass>145</atomicMass>						//Атомная масса			
+		<atomicNum>61</atomicNum>							//Порядковый номер
+		<radius>0.188</radius>								//Радиус
+		<elecronegativity>1.07</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Самарий</name>                            	//Имя атома
+		<symbol>Sm</symbol>									//Символ элемента
+		<atomicMass>150.4</atomicMass>						//Атомная масса			
+		<atomicNum>62</atomicNum>							//Порядковый номер
+		<radius>0.186</radius>								//Радиус
+		<elecronegativity>1.07</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Европий</name>                            	//Имя атома
+		<symbol>Eu</symbol>									//Символ элемента
+		<atomicMass>152.0</atomicMass>						//Атомная масса			
+		<atomicNum>63</atomicNum>							//Порядковый номер
+		<radius>0.183</radius>								//Радиус
+		<elecronegativity>1.01</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Гадолиний</name>                            	//Имя атома
+		<symbol>Gd</symbol>									//Символ элемента
+		<atomicMass>157.3</atomicMass>						//Атомная масса			
+		<atomicNum>64</atomicNum>							//Порядковый номер
+		<radius>0.171</radius>								//Радиус
+		<elecronegativity>1.11</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Тербий</name>                            	//Имя атома
+		<symbol>Tb</symbol>									//Символ элемента
+		<atomicMass>158.9</atomicMass>						//Атомная масса			
+		<atomicNum>65</atomicNum>							//Порядковый номер
+		<radius>0.178</radius>								//Радиус
+		<elecronegativity>1.10</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Диспрозий</name>                            	//Имя атома
+		<symbol>Dy</symbol>									//Символ элемента
+		<atomicMass>162.5</atomicMass>						//Атомная масса			
+		<atomicNum>66</atomicNum>							//Порядковый номер
+		<radius>0.175</radius>								//Радиус
+		<elecronegativity>1.10</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Гольмий</name>                            	//Имя атома
+		<symbol>Ho</symbol>									//Символ элемента
+		<atomicMass>164.9</atomicMass>						//Атомная масса			
+		<atomicNum>67</atomicNum>							//Порядковый номер
+		<radius>0.173</radius>								//Радиус
+		<elecronegativity>1.10</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Эрбий</name>                            	//Имя атома
+		<symbol>Er</symbol>									//Символ элемента
+		<atomicMass>167.3</atomicMass>						//Атомная масса			
+		<atomicNum>68</atomicNum>							//Порядковый номер
+		<radius>0.170</radius>								//Радиус
+		<elecronegativity>1.11</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Тулий</name>                            	//Имя атома
+		<symbol>Tm</symbol>									//Символ элемента
+		<atomicMass>168.9</atomicMass>						//Атомная масса			
+		<atomicNum>69</atomicNum>							//Порядковый номер
+		<radius>0.168</radius>								//Радиус
+		<elecronegativity>1.11</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Иттербий</name>                            	//Имя атома
+		<symbol>Yb</symbol>									//Символ элемента
+		<atomicMass>173.0</atomicMass>						//Атомная масса			
+		<atomicNum>70</atomicNum>							//Порядковый номер
+		<radius>0.166</radius>								//Радиус
+		<elecronegativity>1.06</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Лютеций</name>                            	//Имя атома
+		<symbol>Lu</symbol>									//Символ элемента
+		<atomicMass>175.0</atomicMass>						//Атомная масса			
+		<atomicNum>71</atomicNum>							//Порядковый номер
+		<radius>0.155</radius>								//Радиус
+		<elecronegativity>1.14</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom><atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>0</name>										//Пустышка
+		<symbol>0</symbol>
+		<atomicMass></atomicMass>
+		<atomicNum></atomicNum>
+		<radius></radius>
+		<elecronegativity></elecronegativity>
+		<numGroup></numGroup>
+		<group></group>
+		<category></category>
+		<metal></metal>
+	</atom>
+	<atom>
+		<name>Торий</name>                            	//Имя атома
+		<symbol>Th</symbol>									//Символ элемента
+		<atomicMass>232.0</atomicMass>						//Атомная масса			
+		<atomicNum>90</atomicNum>							//Порядковый номер
+		<radius>0.179</radius>								//Радиус
+		<elecronegativity>1.11</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Протактиний</name>                            	//Имя атома
+		<symbol>Pa</symbol>									//Символ элемента
+		<atomicMass>231.0</atomicMass>						//Атомная масса			
+		<atomicNum>91</atomicNum>							//Порядковый номер
+		<radius>0.181</radius>								//Радиус
+		<elecronegativity>1.14</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Уран</name>                            	//Имя атома
+		<symbol>U</symbol>									//Символ элемента
+		<atomicMass>238.0</atomicMass>						//Атомная масса			
+		<atomicNum>92</atomicNum>							//Порядковый номер
+		<radius>0.178</radius>								//Радиус
+		<elecronegativity>1.22</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+	</atom>
+	<atom>
+		<name>Нептуний</name>                            	//Имя атома
+		<symbol>Np</symbol>									//Символ элемента
+		<atomicMass>237</atomicMass>						//Атомная масса			
+		<atomicNum>93</atomicNum>							//Порядковый номер
+		<radius>0.174</radius>								//Радиус
+		<elecronegativity>1.22</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Плутоний</name>                            	//Имя атома
+		<symbol>Pu</symbol>									//Символ элемента
+		<atomicMass>244</atomicMass>						//Атомная масса			
+		<atomicNum>94</atomicNum>							//Порядковый номер
+		<radius>0.179</radius>								//Радиус
+		<elecronegativity>1.22</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Америций</name>                            	//Имя атома
+		<symbol>Am</symbol>									//Символ элемента
+		<atomicMass>244</atomicMass>						//Атомная масса			
+		<atomicNum>95</atomicNum>							//Порядковый номер
+		<radius>0.176</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Кюрий</name>                            	//Имя атома
+		<symbol>Cm</symbol>									//Символ элемента
+		<atomicMass>247</atomicMass>						//Атомная масса			
+		<atomicNum>96</atomicNum>							//Порядковый номер
+		<radius>0.166</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Берклий</name>                            	//Имя атома
+		<symbol>Bk</symbol>									//Символ элемента
+		<atomicMass>247</atomicMass>						//Атомная масса			
+		<atomicNum>97</atomicNum>							//Порядковый номер
+		<radius>0.163</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Калифорний</name>                            	//Имя атома
+		<symbol>Cf</symbol>									//Символ элемента
+		<atomicMass>251</atomicMass>						//Атомная масса			
+		<atomicNum>98</atomicNum>							//Порядковый номер
+		<radius>0.160</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Эйнштейний</name>                            	//Имя атома
+		<symbol>Es</symbol>									//Символ элемента
+		<atomicMass>254</atomicMass>						//Атомная масса			
+		<atomicNum>99</atomicNum>							//Порядковый номер
+		<radius>0.158</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Фермий</name>                            	//Имя атома
+		<symbol>Fm</symbol>									//Символ элемента
+		<atomicMass>257</atomicMass>						//Атомная масса			
+		<atomicNum>100</atomicNum>							//Порядковый номер
+		<radius>0.156</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Менделевий</name>                            	//Имя атома
+		<symbol>Md</symbol>									//Символ элемента
+		<atomicMass>258</atomicMass>						//Атомная масса			
+		<atomicNum>101</atomicNum>							//Порядковый номер
+		<radius>0.153</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Нобелий</name>                            	//Имя атома
+		<symbol>No</symbol>									//Символ элемента
+		<atomicMass>259</atomicMass>						//Атомная масса			
+		<atomicNum>102</atomicNum>							//Порядковый номер
+		<radius>0.158</radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+	<atom>
+		<name>Лоуренсий</name>                            	//Имя атома
+		<symbol>Lr</symbol>									//Символ элемента
+		<atomicMass>260</atomicMass>						//Атомная масса			
+		<atomicNum>103</atomicNum>							//Порядковый номер
+		<radius></radius>								//Радиус
+		<elecronegativity>1.2</elecronegativity>			//Электроотрицательность
+		<numGroup>III</numGroup>								//Номер группы
+		<group>B</group>									//Группа
+		<category>f</category>								//форма орбитали
+		<metal>1</metal>
+		<xray>1</xray>
+	</atom>
+</elements>
+
